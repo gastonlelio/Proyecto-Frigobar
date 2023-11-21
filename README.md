@@ -1,6 +1,6 @@
 # Proyecto-Frigobar
 ## Integrantes
-  Lelio, Gastón
-  Nicotera, Enzo
-  Spellbrinck, Giuliano
-  Torrekens, Lucas
+  Lelio, Gastón /n
+  Nicotera, Enzo /n
+  Spellbrinck, Giuliano/n
+  Torrekens, Lucas /n
